@@ -1,0 +1,17 @@
+/*
+ * Bài tập: Bấm nút nhấn và toggle LED
+ */
+
+#include <stdio.h>
+#include <inttypes.h>
+#include "sdkconfig.h"
+#include "freertos/FreeRTOS.h"
+#include "freertos/task.h"
+#include "esp_chip_info.h"
+#include "esp_flash.h"
+#include "input_iot.h"
+#include "output_iot.h"
+
+void app_main(void)
+{
+}
